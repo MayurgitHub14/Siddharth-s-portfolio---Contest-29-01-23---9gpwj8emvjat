@@ -16,10 +16,10 @@ const App = () => {
           <Route path="/" exact>
             <Home />
           </Route>
-          <route path='/blog'>
+          <Route path='/blog' exact>
             <Blog />
           </Route>
-          <route path='/info'>
+          <Route path='/info' exact>
             <Info />
           </Route>
         </Switch>
