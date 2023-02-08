@@ -1,4 +1,4 @@
-Siddharth's portfolio
+<!-- Siddharth's portfolio
 
 Siddharth has created his portfolio which contains 3 different pages of 3 different routes.
 
@@ -20,4 +20,6 @@ In Blog.js , if button with id #blog-to-home is clicked then the user is redirec
 
 In Info.js , if button with id #info-to-blog is clicked then the user is redirected from Route path="/info" to Route path="/blog"
 
-In Info.js , if button with id #info-to-home is clicked then the user is redirected from Route path="/info" to Route path="/"
+In Info.js , if button with id #info-to-home is clicked then the user is redirected from Route path="/info" to Route path="/" -->
+
+boilerplate-react-functional-public
